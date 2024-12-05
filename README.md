@@ -6,6 +6,7 @@
 <meta charset="utf-8">
 <title>Produtos - Meu amigo cão</title>
 <script src="interacao/html5shiv.min.js"></script>
+<link rel="stylesheet" href="estilos/principal.css">
 </head>
 <body id="produtos">
 <header>
